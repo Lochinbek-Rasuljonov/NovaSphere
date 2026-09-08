@@ -1,1 +1,5 @@
-{"name":"novasphere","dependencies":{"ioredis":"^5.11.1"}}
+{
+  "name": "novasphere",
+  "version": "1.0.0",
+  "type": "module"
+}
